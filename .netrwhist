@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/wuhaibin'
+let g:netrw_dirhist_2='/Users/wuhaibin/workspace/c-family-project/comm/src'
+let g:netrw_dirhist_3='/Users/wuhaibin/workspace/c-family-project/AsynNetFramework/src'
+let g:netrw_dirhist_4='/Users/wuhaibin/workspace/c-family-project/AsynNetFramework'
+let g:netrw_dirhist_5='/tmp/log'
